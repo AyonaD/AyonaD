@@ -27,6 +27,10 @@
 	<img width="5%" style="padding:5px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
 </p>
 
+<p align="center">
+<img height="137px" width="50%" src="https://github-readme-stats.vercel.app/api?username=AyonaD&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyonaD&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</p>
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{AyonaD}/count.svg)
