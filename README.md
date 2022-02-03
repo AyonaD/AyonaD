@@ -27,11 +27,11 @@
 	<img width="5%" style="padding:5px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
 </p>
 
-<h2 align="center">Top Languages </h2>
+<h2 align="center">Top Languages.... </h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyonaD&langs_count=10&theme=tokyonight&layout=compact" alt="AyonaD :: Top Langs" /></p>
 
-<h2 align="center">Profile Status </h2>
+<h2 align="center">Profile Status.... </h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AyonaD&show_icons=true&theme=synthwave" alt="AyonaD :: Profile Stats" /></p>
 
