@@ -29,7 +29,7 @@
 
 <h2 align="center">Top Languages.... </h2>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyonaD&langs_count=10&theme=tokyonight&layout=compact" alt="AyonaD :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyonaD&langs_count=11&theme=tokyonight&layout=compact" alt="AyonaD :: Top Langs" /></p>
 
 <h2 align="center">Profile Status.... </h2>
 
